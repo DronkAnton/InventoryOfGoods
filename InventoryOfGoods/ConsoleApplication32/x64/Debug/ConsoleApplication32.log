@@ -1,0 +1,8 @@
+﻿  ConsoleApplication32.cpp
+C:\Users\Admin\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(142,37): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(180,41): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(245,53): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(340,13): warning C4101: choise: неиспользованная локальная переменная
+C:\Users\Admin\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(518,61): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\ConsoleApplication32\ConsoleApplication32\ConsoleApplication32.cpp(603,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication32.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication32\x64\Debug\ConsoleApplication32.exe
